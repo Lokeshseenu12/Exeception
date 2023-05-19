@@ -13,6 +13,7 @@ public class Shirt {
 		this.price = price;
 		this.color = color;
 	}
+	System.out.println();
 	
 
 }
